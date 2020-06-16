@@ -2,10 +2,10 @@
    
    USE burgers_db;
    
-   CREATE TABLE burgers (
+   CREATE TABLE burgers(
    id INT NOT NULL AUTO_INCREMENT
-   , burger_name VARCHAR (255) NOT NULL
-   , devoured BOOLEAN DEFAULT false,
+   , burger_name VARCHAR (50) NOT NULL
+   , devoured BOOLEAN
    ,  PRIMARY KEY (id)
    );
    
