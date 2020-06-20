@@ -4,3 +4,7 @@
 ## Install
 
 Be sure to create a new file called .env on the same level as server.js With code looking like 'PASSWORD=<your SQL password>'
+
+
+Click on the link below:
+https://young-waters-65469.herokuapp.com/
